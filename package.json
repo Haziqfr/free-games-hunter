@@ -1,0 +1,23 @@
+{
+  "name": "free-games-hunter",
+  "version": "1.0.0",
+  "description": "This repo is made for lazy people who wants to get epic games time limited free games with one command",
+  "main": "fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haziqfr/free-games-hunter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haziqfr/free-games-hunter/issues"
+  },
+  "homepage": "https://github.com/Haziqfr/free-games-hunter#readme",
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
