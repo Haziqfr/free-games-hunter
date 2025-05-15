@@ -39,11 +39,12 @@ cd free-games-hunter
 
 npm install
 
+
+
 3. Run the Script
 
 
-
-bash free-games-hunter.sh
+./free-games-hunter.sh
 
 If no cookies are found, it will open a browser for you to log into Epic Games.
 
